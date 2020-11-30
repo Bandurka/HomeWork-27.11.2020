@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\User\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\User\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Views.MainForm.resources
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\User\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
